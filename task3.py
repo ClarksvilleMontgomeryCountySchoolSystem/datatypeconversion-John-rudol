@@ -5,6 +5,7 @@ from data import a, b, c, d, e, f
 # Not all can or should be converted to a number
 
 # a
+
 print(a)
 print(type(a))
 a = float(a)
@@ -14,17 +15,16 @@ print(type(a))
 print(b)
 print(type(b))
 
+
 # c
 print(c)
 print(type(c))
-c = int(c)
-print(c)
 
 # d
 print(d)
 print(type(d))
 d = int(d)
-print(d)
+print(type(d))
 
 # e
 print(e)
@@ -34,6 +34,5 @@ print(type(e))
 print(f)
 print(type(f))
 f = float(f)
-print(f)
-
+print(type(f))
 
