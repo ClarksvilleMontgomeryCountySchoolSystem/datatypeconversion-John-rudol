@@ -4,7 +4,7 @@ from data import num
 #Let'S debug.
 
 #TODO 2 print num
-print(num)
+print(f"num")
 
 #TODO 3 Print the type
 print(type(num))
@@ -14,5 +14,4 @@ num = int(num)
 
 result = num * 10
 print(result)
-
 
