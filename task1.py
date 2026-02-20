@@ -4,7 +4,7 @@ from data import num
 #Let'S debug.
 
 #TODO 2 print num
-print(f"num")
+print(num)
 
 #TODO 3 Print the type
 print(type(num))
