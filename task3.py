@@ -19,8 +19,7 @@ print(type(b))
 # c
 print(c)
 print(type(c))
-c = int(c)
-print(type(c)
+
 # d
 print(d)
 print(type(d))
